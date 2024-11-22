@@ -59,13 +59,15 @@ Select options from the menu to perform desired operations:
 ```plaintext
 Enter file name: file1  
 Enter file size (in KB): 100  
-Enter file type: txt  
+Enter file type: txt
+
 File "file1" inserted successfully.  
 ```
 
 ### Delete File:
 ```plaintext
-Enter the file name to delete: file1  
+Enter the file name to delete: file1
+
 File "file1" deleted successfully.
 ```
 
@@ -83,7 +85,6 @@ File Management System
 2. Delete File  
 3. Display All Files (Inorder)  
 4. Quit  
-
 Enter your choice: 1  
 Enter file name: file1  
 Enter file size (in KB): 100  
