@@ -87,33 +87,40 @@ File Management System
 Enter your choice: 1  
 Enter file name: file1  
 Enter file size (in KB): 100  
-Enter file type: txt  
+Enter file type: txt
+
 File "file1" inserted successfully.  
 
 Enter your choice: 1  
 Enter file name: file2  
 Enter file size (in KB): 200  
-Enter file type: jpg  
+Enter file type: jpg
+
 File "file2" inserted successfully.  
 
-Enter your choice: 3  
+Enter your choice: 3
+ 
 File Name: file1  
 Size: 100 KB  
-Type: txt  
+Type: txt
+
 File Name: file2  
 Size: 200 KB  
 Type: jpg  
 
 Enter your choice: 2  
-Enter the file name to delete: file1  
+Enter the file name to delete: file1
+
 File "file1" deleted successfully.  
 
-Enter your choice: 3  
+Enter your choice: 3
+
 File Name: file2  
 Size: 200 KB  
 Type: jpg  
 
-Enter your choice: 4  
+Enter your choice: 4
+
 Exiting...  
 ```
 
