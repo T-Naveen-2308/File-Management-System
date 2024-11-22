@@ -1,5 +1,4 @@
 # File Management System Using Threaded Binary Search Tree
-
 ## Overview
 This project is a **File Management System** implemented using a **Threaded Binary Search Tree (TBST)** in C++. The system allows users to manage files by adding, deleting, and displaying them in sorted order (inorder traversal). The application is menu-driven, providing an interactive way to perform operations on the files.
 
